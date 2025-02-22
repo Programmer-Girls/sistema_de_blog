@@ -36,7 +36,7 @@ A administradora @pamelabrito ficou responsável pelos seguintes projetos:
 • PROJETO 03: [Aplicativo de Delivery de Comida](https://github.com/Programmer-Girls/delivery);\
 • PROJETO 04: [Sistema de Gestão de Projetos](https://github.com/Programmer-Girls/gestao_de_projetos).
 
-• PROJETO 05: Sistema de Gerenciamento de Usuários;\
+• PROJETO 05: [Sistema de Gerenciamento de Usuários](https://github.com/Programmer-Girls/sistema-de-gerenciamento);\
 • PROJETO 06: [Sistema de Blog](https://github.com/Programmer-Girls/sistema_de_blog);\
 • PROJETO 07: [Sistemas de Reservas de Hotel](https://github.com/Programmer-Girls/hotel_reservas);\
 • PROJETO 08: Plataforma de E-learning.
