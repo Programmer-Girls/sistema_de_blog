@@ -12,7 +12,6 @@ desafios práticos e acessíveis, permitindo que as participantes explorem tecno
 
 ## 💡 Desenvolvimento
 ✅ Cada administradora ficou responsável por acompanhar e mentorear grupos com 3, dentre 30, pessoas #ProGirls;\
-✅ Este repositório contém as versões dos códigos de cada projeto criado somente pelas administradoras da dinâmica;\
 ✅ Abaixo estão a lista dos projetos que cada admministradora ficou responsável;\
 ✅ Também, há os códigos criados pelas próprias participantes da dinâmica #ProGirls, separados por grupo.
 
